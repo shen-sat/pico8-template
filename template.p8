@@ -12,6 +12,15 @@ end
 
 function _draw()
   -- game.draw() 
+
+  -- draw sprites
+  -- spr()
+
+  --controls (goes from 0-5)
+  -- if btn(0) then do_something() end
+
+  --border
+  -- rect(0,0,127,127,7) --border
 end
 
 -- function show_menu()
